@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 #### Profiles
+
 - [Curriculo Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1176578T8)
 - [LinkedIn](https://www.linkedin.com/in/lo-han/)
 
-#### Organization
+#### Organizations
 
 - https://github.com/dock-tech
 - [https://github.com/archimedes](https://github.com/water-pump-automation)
 
-#### Certifications, Licenses and Graduation
+#### Certifications, Licenses and Graduations
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e2bd0159-d41d-494c-b46d-79fe9d1517c4)
 - [Udacity AI Programming with Python](https://graduation.udacity.com/confirm/D3LU729R)
