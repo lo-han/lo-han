@@ -7,7 +7,6 @@
 #### Certifications, Licenses and Graduations
 
 - [Curriculo Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1176578T8)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e2bd0159-d41d-494c-b46d-79fe9d1517c4)
 
 #### Stats
 
