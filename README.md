@@ -4,8 +4,6 @@
 
 [![My Skills](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lo_han)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lo-han/)
-
 
 #### Stats
 
