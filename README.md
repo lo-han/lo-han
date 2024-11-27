@@ -1,4 +1,4 @@
-## 📊 Profile visits:
+## 📊 Profile Visits:
 
 Hi there 👋
 
